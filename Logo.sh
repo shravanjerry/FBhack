@@ -19,7 +19,7 @@ banner() {
    echo -e $'\e[1;33m\e[0m\e[1;33m  [ \e[0m\e[1;32m Follow on YouTube :- https://YouTube.com/channel/MrWHITEHATTER TECH\e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m'
-      echo -e "\e[93m     |P|H|I|S|H|I|N|G| |1|.|0|"      
+      echo -e "\e[93m  |F|A|C|E|B|O|O|K|  |P|H|I|S|H|I|N|G| |1|.|0|"      
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m' 
       echo ""                                                
       }
