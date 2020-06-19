@@ -25,7 +25,7 @@ elif [ $pilih = "n" ];
 then
 sleep 2
 echo "Please SUBSCRIBE CHANNEL My channel"
-termux-open-url "https://www.youtube.com/channel/UCw5u7r2zZOJgPSe-3qyuOag "
+termux-open-url "https://www.youtube.com/channel/UCw5u7r2zZOJgPSe-3qyuOag"
 sleep 4
 sleep 2
 fi
