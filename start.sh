@@ -55,6 +55,6 @@ clear
 echo ""
 echo ""
 read -p $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m Enter The Ngrok Token [Ex. ./ngrok authtoken 1Y7IU ] : \e[0m' token
-$token
+$./ngrok authtoken 1dZVrxwoGwWjEMP4a9IoYdv0Tig_2jVL3oEUPfrrBcZjcXTYH
 sleep 2
 clear
